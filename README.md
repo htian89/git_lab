@@ -1,1 +1,2 @@
-# Git lab, in order to practise using git.
+# git_lab
+In order to practise using git.
